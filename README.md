@@ -4,7 +4,7 @@ Hi! My name is Ákos Tóth
 IT system operator
 ------------------
 
-I've been actively coding sice I was 12. Started with scratch as a kid, then high schooI came around and I decided to apply for a prestigious school where I can code, learn about networks and use databases. All of that gave me the basics and started my journey in this world.
+I've been actively coding since I was 12. Started with scratch as a kid, then high schooI came around and I decided to apply for a prestigious school where I can code, learn about networks and use databases. All of that gave me the basics and started my journey in this world.
 
 * ✉️  You can contact me at [toth.akos.ferenc24725@gmail.com](mailto:toth.akos.ferenc24725@gmail.com)
 * 🧠  I'm learning cyber security and I can't wait to take my CompTIA Security+ exam

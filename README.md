@@ -9,7 +9,7 @@ I've been actively coding since I was 12. Started with scratch as a kid, then hi
 * ✉️  You can contact me at [toth.akos.ferenc24725@gmail.com](mailto:toth.akos.ferenc24725@gmail.com)
 * 🧠  I'm learning cyber security and I can't wait to take my CompTIA Security+ exam
 
-I often use batch files for automating tasks in Windows that helps with my daily life.
+I often automate tasks in Windows and make small projects based on the imporvement of my daily life.
 
 ### Skills
 

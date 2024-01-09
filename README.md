@@ -4,12 +4,14 @@ Hi! My name is Ákos Tóth
 IT system operator
 ------------------
 
-I've been actively coding since I was 12. Started with scratch as a kid, then high schooI came around and I decided to apply for a prestigious school where I can code, learn about networks and use databases. All of that gave me the basics and started my journey in IT.
+I've been actively coding since I was 12. Started with scratch as a kid, then high schooI came around and I decided to apply for a prestigious school where I can code, learn about networks and use databases. All of that gave me the basics and started my journey in IT :)
 
 * ✉️  You can contact me at [toth.akos.ferenc24725@gmail.com](mailto:toth.akos.ferenc24725@gmail.com)
 * 🧠  I'm learning cyber security and I can't wait to take my CompTIA Security+ exam
 
-I often automate tasks in Windows and make small projects based on the imporvement of my daily life :)
+The majority of my projects revolve around automation, crafting useful scripts for everyday tasks, WPF user interfaces for easy accessibility for other programs and some red teaming projects.
+
+“An idiot admires complexity, a genius admires simplicity" -Terry A. Davis
 
 ### Skills
 

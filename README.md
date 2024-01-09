@@ -11,8 +11,6 @@ I've been actively coding since I was 12. Started with scratch as a kid, then hi
 
 The majority of my projects revolve around automation, crafting useful scripts for everyday tasks, WPF user interfaces for easy accessibility for other programs and some red teaming projects.
 
-“An idiot admires complexity, a genius admires simplicity" -Terry A. Davis
-
 ### Skills
 
 <p align="left">

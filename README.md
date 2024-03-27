@@ -1,5 +1,6 @@
 # Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I am Ákos Tóth.
 **`IT System and Application Operator`**
+
 ![alt text](https://static1.s123-cdn-static-a.com/uploads/8677971/800_654bf7d9bb2d6_filter_654bf834d340f.jpg "My Hello World tatto")
 
 *Be hungry, humble and always the hardest worker in the room.*

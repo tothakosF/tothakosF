@@ -5,7 +5,6 @@ I've been actively coding since I was 12. Started with scratch as a kid, then hi
 
 For more information about me, my recent projects and competitions check out my [website](https://www.it-kalauz.com)!
 
-* 🧠  I am working on my portfolio translating from Hungarian to different languages and appending the project section of my webpage
 * 💼  Currently seeking for a system operator or a software developer position 👀
 * ✉️  You can contact me at [toth.akos.ferenc24725@gmail.com](mailto:toth.akos.ferenc24725@gmail.com)
 

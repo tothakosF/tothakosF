@@ -1,5 +1,5 @@
 # Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I am Ákos Tóth.
-**`IT System and Application Operator (Developer/Blogger/Enthusiast)`**
+**`IT System and Application Operator`**
 
 *Be hungry, humble and always the hardest worker in the room.*
 

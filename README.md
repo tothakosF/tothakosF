@@ -8,3 +8,5 @@ Hi! My name is *Ákos Tóth* and I am an **IT system operator**.
 * ✉️  You can contact me at [toth.akos.ferenc24725@gmail.com](mailto:toth.akos.ferenc24725@gmail.com)
 
 The majority of my projects revolve around automation, crafting useful scripts for everyday tasks, WPF user interfaces for easy accessibility for other programs and some red teaming projects.
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=tothakosF&show_icons=true)

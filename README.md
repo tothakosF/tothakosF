@@ -1,7 +1,7 @@
 Hi! My name is *Ákos Tóth* and I am an **IT system operator**.
 =================================================================================================================================
 
-*Be hungry, humble and the hardest worker in the room.*
+*Be hungry, humble and always the hardest worker in the room.*
 
 * 🌐  **FOR INFORMATION ABOUT ME AND MY RECENT PROJECTS CHECK OUT MY WEBSITE** [HERE](https://www.it-kalauz.com)
 * 💼  Currently seeking for a system operator or a software developer position 👀

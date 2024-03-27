@@ -1,5 +1,6 @@
-Hi! My name is *Ákos Tóth* and I am an **IT system operator**.
+# Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I am Ákos Tóth.
 =================================================================================================================================
+**`IT System and Application Operator (Developer/Blogger/Enthusiast)`**
 
 *Be hungry, humble and always the hardest worker in the room.*
 
@@ -8,5 +9,3 @@ Hi! My name is *Ákos Tóth* and I am an **IT system operator**.
 * ✉️  You can contact me at [toth.akos.ferenc24725@gmail.com](mailto:toth.akos.ferenc24725@gmail.com)
 
 The majority of my projects revolve around automation, crafting useful scripts for everyday tasks, WPF user interfaces for easy accessibility for other programs and some red teaming projects.
-
-![Personal github stats](https://github-readme-stats.vercel.app/api?username=tothakosF&show_icons=true)
